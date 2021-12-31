@@ -1,10 +1,10 @@
 # UFC-Scrape
 Scraped event and fight stats, data from 1993 to present date using Beautiful Soup.
 
-#Details about the data
+## Details about the data
 This is a list of every UFC fight in the history of the organisation. Every row contains information about both fighters, fight details and the winner. The data was scraped from ufcstats website. 
 
-##Column definitions:
+## Column definitions:
 
     R_ and B_ prefix signifies red and blue corner fighter stats respectively
     _opp_ containing columns is the average of damage done by the opponent on the fighter
@@ -54,6 +54,6 @@ This is a list of every UFC fight in the history of the organisation. Every row 
     win_by_TKO_Doctor_Stoppage is the number of wins by doctor stoppage in the fighter's ufc career
 
 
-#Acknowledgements
+## Acknowledgements
 
     Inspiration: https://github.com/WarrierRajeev/UFC-Predictions/ Provided ideas on how to store per fight data.
